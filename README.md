@@ -1,12 +1,3 @@
-# REMOVE ME
-This is a skeleton of an existing tiger implementation.
-It might help get you started writing your lexer, parser, and interpreter.
-Take what you want, delete what you don't!
-If you're ever stuck or want some inspiration, check out the [actual implementation](https://github.com/gordoneccles/tiger).
-
-If you want to make the package your own, go edit setup.py!
-
-
 # The Tiger Programming Language
 Tiger is a simple, statically typed programming language.
 See the 4-page specification [here](https://cs.nyu.edu/courses/fall13/CSCI-GA.2130-001/tiger-spec.pdf)
